@@ -1,16 +1,6 @@
 # Nemo-10Xmultiome
 Quality Control and Integration of Clownfish POA Brain Tissue using 10X's Single Nucleus Multiome ATAC + Gene Expression Platform 
----
-title: "Pre-processing Clownfish 10X Genomics multiome single cell RNA + ATAC sequencing
-  data"
-author: "Kathryn N. Leatherbury"
-date: "last updated: 09-11-2024"
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
-subtitle: "Adaptive quality control and data pre-processing"
----
+
 
 ## Load packages
 
